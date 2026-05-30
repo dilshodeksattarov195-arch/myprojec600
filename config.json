@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacherarse",
+        "uuid": 1213200,
+        "checksum": "02n7p"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
